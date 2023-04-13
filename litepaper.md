@@ -27,6 +27,12 @@ Facts and figures that explain the depth of the pain-point
 
 The initial distribution, vesting schedules, the token’s utility and specific sinks/sources in the system. the token's purpose in the protocol, what it allows users to do, who can hold the token, and the number of tokens in circulation over time.
 
+Draft concept:
+- 50% makers
+- 25% team
+- 25% DAO (swap program comes from here, max 12 million swapped, time limit, maybe 1 month
+- 240 million total supply
+
 ### Token supply
 
 ### Token utility 
